@@ -2,6 +2,28 @@
 
 Newest on top.
 
+## Oct 29, 2026: Phone-filmed trend dance video (Seedance 2.0)
+**Made:** one 8 second vertical (9:16) video, 720p, Seedance 2.0 standard mode, with native audio. Job `7f14f541-5ac3-4341-85b1-59d33ee64d99`. Saved to the new Higgsfield project "Henrik Slater" (project and folder ID `ee2131b7-3e7c-490b-9f0c-01e0cbf64a17`).
+
+**References used:** the trained Soul does not work with Seedance, so Henrik's look came from the master close-up (`0e0b3dd6`) and the locked front view (job `6a6f0554`) as image references, plus his full description in the prompt. Declined a Higgsfield preset suggestion ("IN THE DARK") because J asked for Seedance 2.0.
+
+**Credits spent:** 36 (approved by J; quoted at 36 before submitting). Balance went from 97.78 to 61.78.
+
+**Check (viewed frames across the whole clip and a face close-up):**
+1. Face: pass. Aviator glasses, horseshoe mustache, afro color and shape all match the master. Freckles only faintly visible at 720p full body.
+2. Neck: pass. Long and natural, not stretched.
+3. Outfit: pass. Orange shawl-collar jacket, sky blue ruffled shirt, velvet bow tie, pocket square, green rose-print bell-bottoms, black shoes.
+4. No text, extra limbs, or warped hands seen.
+5. Deadpan expression: pass, expressionless throughout.
+
+**Weak points (creative calls for J):**
+- The dance is low energy: mostly small stiff arm lifts, step-touches, and one leg kick near the end. It reads as awkward and stiff, but not clearly as a recognizable viral dance.
+- The phone feel is light: framing stays nearly locked with only small shifts, so it looks more tripod than handheld.
+- Audio is present (an upbeat track); not checked for quality beyond confirming it plays at normal volume.
+
+**Open questions for J:**
+- Keep this one, or re-run with bigger, sharper moves and stronger handheld shake (another 36 credits at the same settings)?
+
 ## Oct 29, 2026: Soul rename check
 **Made:** nothing generated. Checked the Soul's name in Higgsfield after J renamed it.
 
