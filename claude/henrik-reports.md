@@ -2,6 +2,13 @@
 
 Newest on top.
 
+## Oct 29, 2026: Soul rename check
+**Made:** nothing generated. Checked the Soul's name in Higgsfield after J renamed it.
+
+**Credits spent:** 0
+
+**Result:** Soul V2 `cf90649c-188a-40c2-916e-0defb2d4a90f` is now named "Henrik Slater". Still ready, type soul_2, same ID and thumbnail (master close-up 0e0b3dd6). Updated `CLAUDE.md` and `claude/earl-reference.md` to match and removed the rename open item. The claude.ai Project copy of the reference still needs the same edits.
+
 ## Oct 29, 2026: Setup and asset check
 **Made:** nothing generated. Added the dispatch brief and the locked reference to the repo (`CLAUDE.md`, `claude/earl-reference.md`).
 

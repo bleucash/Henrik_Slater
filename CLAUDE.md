@@ -1,6 +1,6 @@
 # Henrik Slater: Claude Code Instructions
 
-Henrik Slater is a 1970s-styled AI influencer. "Earl" was his working name, so older assets and the trained Soul are still labeled "Earl"; it is the same character.
+Henrik Slater is a 1970s-styled AI influencer. "Earl" was his working name, so some older assets are still labeled "Earl"; it is the same character. The trained Soul was renamed to "Henrik Slater" on Oct 29, 2026.
 
 The full locked design, every asset ID, and lessons learned are in `claude/earl-reference.md` (a copy of the reference file in the "Henrik Slater" claude.ai Project). Read it before starting any task. If it and this file ever disagree, the reference file wins; ask J if unsure.
 
@@ -19,7 +19,7 @@ The full locked design, every asset ID, and lessons learned are in `claude/earl-
 
 ## How to generate him
 - Higgsfield workspace ID: d27b220d-bf6a-4aa8-8379-8e371bdf6b74
-- Trained Soul V2: soul_id `cf90649c-188a-40c2-916e-0defb2d4a90f` (labeled "Earl" in Higgsfield)
+- Trained Soul V2: soul_id `cf90649c-188a-40c2-916e-0defb2d4a90f` (named "Henrik Slater" in Higgsfield)
 - The Soul only works with models `soul_2` and `soul_cinematic`. Pass `soul_id` as a top-level param.
 - Still describe his key features and outfit in every prompt; the Soul carries the face, the prompt carries the rest.
 - Master close-up face anchor (for non-Soul models): media_id `0e0b3dd6-cc18-4ed2-b962-fa39ba11261c`

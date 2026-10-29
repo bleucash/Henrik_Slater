@@ -2,10 +2,10 @@
 
 ## Status
 - AI influencer character built in Higgsfield (AI Influencer mode)
-- Final name: **Henrik Slater** (decided Oct 29, 2026). "Earl" was the working name, so older assets and the trained Soul are still labeled "Earl".
+- Final name: **Henrik Slater** (decided Oct 29, 2026). "Earl" was the working name, so some older assets are still labeled "Earl". The trained Soul was renamed to "Henrik Slater" on Oct 29, 2026.
 - This claude.ai Project ("Henrik Slater") is the main home for all of his work. The earlier Claude Code Remote Control instance was shut down with no work lost.
 - Character reference sheet completed and locked Oct 29, 2026 (close-up, front, three-quarter, profile, back)
-- Soul V2 character trained and ready (Oct 29, 2026): soul_id cf90649c-188a-40c2-916e-0defb2d4a90f, still named "Earl" in Higgsfield (use with model soul_2 or soul_cinematic)
+- Soul V2 character trained and ready (Oct 29, 2026): soul_id cf90649c-188a-40c2-916e-0defb2d4a90f, named "Henrik Slater" in Higgsfield (use with model soul_2 or soul_cinematic)
 
 ## Character design (locked Oct 29, 2026)
 - Light-skinned Black man with a 1970s look, freckles, hazel eyes
@@ -39,4 +39,3 @@ Older Oct 27 generations (superseded): 429ecefc-cb96-4518-9e44-3b5728e8b695 (sou
 
 ## Open items
 - Run Soul test generations to check face and neck consistency
-- Optionally rename the Soul from "Earl" to "Henrik Slater" in the Higgsfield app (no rename option available from here)
