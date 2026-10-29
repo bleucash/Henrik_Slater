@@ -1,8 +1,8 @@
-# Earl: Project Reference
+# Henrik Slater: Project Reference
 
 ## Status
 - AI influencer character built in Higgsfield (AI Influencer mode)
-- "Earl" is the working name; final name not yet decided
+- Character name: Henrik Slater (formerly the working name "Earl")
 - Work happens in the "Earl" claude.ai Project and in Claude Code sessions on this repo (bleucash/Earl). This repo is the shared home for files, kept separate from Manolo work.
 
 ## Character design
@@ -15,9 +15,9 @@
 ## Higgsfield assets
 Workspace: private (Plus plan), ID d27b220d-bf6a-4aa8-8379-8e371bdf6b74
 
-As of Oct 29, 2026 there are no Higgsfield projects, folders, saved reference elements, or trained Soul characters for Earl. The images below exist only in general generation history.
+As of Oct 29, 2026 there are no Higgsfield projects, folders, saved reference elements, or trained Soul characters for Henrik Slater. The images below exist only in general generation history.
 
-Images generated Oct 27, 2026 (likely Earl, not yet confirmed one by one):
+Images generated Oct 27, 2026 (likely Henrik Slater, not yet confirmed one by one):
 
 | Generation ID | Model |
 |---|---|
@@ -30,8 +30,7 @@ Images generated Oct 27, 2026 (likely Earl, not yet confirmed one by one):
 Older, probably unrelated: 27233926-d6c9-4ecb-863b-3e88854604db (GPT Image 2, May 11, 2026)
 
 ## Open items
-- Pick the best Earl image and save it as a Higgsfield reference element (or gather 5 to 20 images to train a Soul character) so his look stays consistent
-- Decide on Earl's final name
+- Pick the best Henrik Slater image and save it as a Higgsfield reference element (or gather 5 to 20 images to train a Soul character) so his look stays consistent
 
 ## Writing rules
 - Never use em dashes in any writing or output

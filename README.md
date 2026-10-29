@@ -1,2 +1,2 @@
-# Earl
+# Henrik Slater
 AI Influencer 
