@@ -2,6 +2,25 @@
 
 Newest on top.
 
+## Oct 29, 2026: Genjutsu character swap on coworker's dance clip
+**Made:** one 12.7 second vertical video (486x844, 480p), Higgsfield Genjutsu character replacement (`hf_mult_replace_object`). Job `ba82363f-0e3d-41da-ae93-223981576581`. Saved to the "Henrik Slater" project (`ee2131b7-3e7c-490b-9f0c-01e0cbf64a17`).
+
+**Source:** J's coworker's own dance video (used with his OK), uploaded by J as media `162b1986-63ae-4d44-afb2-c7d31f2e2d8b` (30.003s, a hair over Genjutsu's 30s limit). Claude trimmed it: a 29.9s full version (media `6de19669-e2e8-4d0a-a090-aab89d26419e`, not used) and the caption-free 11s to 24s segment (media `1430817a-600b-4c99-b11e-9290ea490717`, used). References: master close-up `0e0b3dd6` and front view job `6a6f0554`, plus his full description in the prompt.
+
+**Credits spent:** 42 (J picked this option; quotes were 210 for full 30s at 720p, 98 for 13s at 720p, 42 for 13s at 480p). Balance went from 61.78 to 19.78.
+
+**Check (viewed frames across the whole clip and a zoomed face crop):**
+1. Face: partial. Round reddish-brown afro and aviator glasses are there. At 480p the face is soft; the mustache reads closer to a regular mustache with some chin shadow than a clean horseshoe, and freckles are not visible.
+2. Neck: fail. Normal length, not his signature long neck.
+3. Outfit: mostly pass. Orange shawl-collar jacket, black bow tie, pocket square, green rose-print bell-bottoms, black shoes are right. The shirt sometimes looks shiny or sequined instead of ruffled, and a black waistband (like a cummerbund) appears that is not in his design.
+4. No extra limbs or warped hands seen. Background billboard text is out of focus. Some motion blur on fast moves.
+5. Motion, timing, camera, framing, lighting, color, and rooftop background all match the source. The original audio track is kept.
+
+**Open questions for J:**
+- Keep this as a test, or redo at 720p (98 credits, needs a top-up since 19.78 remain) for a sharper face?
+- The neck and mustache drift are likely to persist at any resolution with this model. Worth trying the motion-transfer mode (`hf_mult_motion_control`, Henrik image plus the source motion) instead, which builds Henrik from his references rather than painting over the dancer?
+- Audio is the coworker's original track; check it is OK to use before posting.
+
 ## Oct 29, 2026: Phone-filmed trend dance video (Seedance 2.0)
 **Made:** one 8 second vertical (9:16) video, 720p, Seedance 2.0 standard mode, with native audio. Job `7f14f541-5ac3-4341-85b1-59d33ee64d99`. Saved to the new Higgsfield project "Henrik Slater" (project and folder ID `ee2131b7-3e7c-490b-9f0c-01e0cbf64a17`).
 
