@@ -1,4 +1,4 @@
-# Earl: Project Reference
+# Henrik Slater: Project Reference
 
 ## Status
 - AI influencer character built in Higgsfield (AI Influencer mode)
