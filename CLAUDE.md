@@ -3,7 +3,7 @@
 ## Status
 - AI influencer character built in Higgsfield (AI Influencer mode)
 - Character name: Henrik Slater (formerly the working name "Earl")
-- Work happens in the "Earl" claude.ai Project and in Claude Code sessions on this repo (bleucash/Earl). This repo is the shared home for files, kept separate from Manolo work.
+- Work happens in the "Henrik Slater" claude.ai Project and in Claude Code sessions on this repo (bleucash/Henrik_Slater). This repo is the shared home for files, kept separate from Manolo work.
 
 ## Character design
 - Light-skinned Black man with a 1970s look
